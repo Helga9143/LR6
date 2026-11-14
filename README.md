@@ -67,6 +67,7 @@ e1d07de 2026-11-13 olga Merge branch 'feature' into master
 921f53b 2020-11-21 Kurtyanik Обновление информации
 c08a654 2020-11-21 Kurtyanik Файл создан пустым
 3c6e913 2020-11-21 Kurtyanik Initial commit
-
+```
+![Результат задания 13-15](https://github.com/Helga9143/LR6/blob/report/screenshots/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%2016.jpg)
 
 
